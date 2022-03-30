@@ -1,21 +1,12 @@
-# jviana-csic-github
-Exercise 1 repository
+## Reproducibility course at CSIC with GitHub platform.
 
-## Aim of this repository
-This is my first repository to store information from my research on XXXX.
+This is the working repository for the course exercises.
+In this repository other students of the course will 
+collaborate to complete the content.
 
-## How to collaborate:
+# Session 1
 
-- One: Clone this repository.
-- Two: Add your features and collaborate with us on this research project.
+## Creating a new repository and adding content
 
-## How to cite this repository
-
-	@misc{YouName2022,
-  		author = {Your Name},
-  		title = {My first repository},
-  		year = {2022},
-  		publisher = {GitHub},
-  		journal = {GitHub repository},
-  		howpublished = {\url{URL_OF_THIS_REPO}}
-		}
+- [x] Created repository
+- [x] Updated content
